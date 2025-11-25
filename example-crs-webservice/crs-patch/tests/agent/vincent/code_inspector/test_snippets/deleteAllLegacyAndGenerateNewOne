@@ -1,4 +1,0 @@
-140:    private void deleteAllLegacyAndGenerateNewOne(@NonNull Secret newLegacyApiToken, boolean migrationFromExistingLegacy) {
-141:        deleteAllLegacyTokens();
-142:        addLegacyToken(newLegacyApiToken, migrationFromExistingLegacy);
-143:    }

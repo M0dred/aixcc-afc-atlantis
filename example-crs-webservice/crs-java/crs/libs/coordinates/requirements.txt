@@ -1,5 +1,0 @@
-# Runtime dependencies
-# No external Python dependencies are required
-
-# For development
-pytest>=8.0.0

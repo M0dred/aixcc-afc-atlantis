@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-package fuzzer_corpus;
-
-message FuzzerSeeds {
-    string harness_id = 1;
-    string origin = 2;
-    repeated bytes data = 3;
-}

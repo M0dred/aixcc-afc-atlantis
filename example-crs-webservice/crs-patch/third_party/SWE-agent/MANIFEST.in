@@ -1,3 +1,0 @@
-recursive-include sweagent/config *
-recursive-include sweagent/trajectories *
-recursive-include sweagent/tools *

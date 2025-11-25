@@ -1,1 +1,0 @@
-add_library(msa_cpu STATIC affinity.cpp)

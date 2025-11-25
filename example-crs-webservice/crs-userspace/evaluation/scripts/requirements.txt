@@ -1,5 +1,0 @@
-requests
-grpcio
-pandas
-matplotlib
-hexdump

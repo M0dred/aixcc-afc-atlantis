@@ -1,3 +1,0 @@
-openai>=1.47.0
-litellm>=1.47.0
-instructor>=1.4.3
